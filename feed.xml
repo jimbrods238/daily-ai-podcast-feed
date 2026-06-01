@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Daily AI Briefing</title>
-    <link>https://daily-ai-briefing.netlify.app</link>
+    <link>https://daily-ai-podcast-feed.netlify.app</link>
     <language>en-us</language>
     <description>Autonomous nightly synthesis of the day's AI news, focused on meta-narrative, patterns, and cause-effect chains. Five to seven minutes. One voice.</description>
     <itunes:author>Mike Ross</itunes:author>
@@ -13,7 +13,7 @@
       <itunes:name>Mike Ross</itunes:name>
       <itunes:email>michael.parker.ross@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://daily-ai-briefing.netlify.app/cover.png"/>
+    <itunes:image href="https://daily-ai-podcast-feed.netlify.app/cover.png"/>
     <itunes:category text="Technology"/>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
