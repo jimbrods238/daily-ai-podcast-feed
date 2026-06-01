@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daily AI Briefing</title>
+    <link>https://daily-ai-briefing.netlify.app</link>
+    <language>en-us</language>
+    <description>Autonomous nightly synthesis of the day's AI news, focused on meta-narrative, patterns, and cause-effect chains. Five to seven minutes. One voice.</description>
+    <itunes:author>Mike Ross</itunes:author>
+    <itunes:summary>Autonomous nightly synthesis of the day's AI news.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Mike Ross</itunes:name>
+      <itunes:email>michael.parker.ross@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://daily-ai-briefing.netlify.app/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
