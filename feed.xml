@@ -20,7 +20,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-                            <item>
+                                <item>
+      <title>AI in the news: June 22, 2026 — Samsung Signs On and the Enterprise Race Goes Real</title>
+      <description>OpenAI's Partner Network investment from June 15th just produced its first major named customer: Samsung Electronics is deploying ChatGPT Enterprise and Codex to employees worldwide. But the real story is what Samsung chose to deploy — and what that reveals about how enterprise AI adoption actually works versus how it gets announced.</description>
+      <content:encoded><![CDATA[<h1>Samsung Signs On and the Enterprise Race Goes Real</h1><p>OpenAI's Partner Network investment from June 15th just produced its first major named customer: Samsung Electronics is deploying ChatGPT Enterprise and Codex to employees worldwide. But the real story is what Samsung chose to deploy — and what that reveals about how enterprise AI adoption actually works versus how it gets announced.</p><h2>Featured story</h2><ul><li><a href="https://openai.com/index/samsung-electronics-chatgpt-codex-deployment">Samsung Electronics brings ChatGPT and Codex to employees</a> — OpenAI News</li></ul><h2>Also today</h2><ul><li><a href="https://marktech.co/moonmath-ai-hip-attention-kernel">MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode</a> — MarkTechPost</li><li><a href="https://huggingface.co/blog/pp-ocrv6">PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters</a> — Hugging Face Blog</li><li><a href="https://marktech.co/7-types-agent-memory">The 7 Types of Agent Memory: A Technical Guide for AI Engineers</a> — MarkTechPost</li></ul>]]></content:encoded>
+      <pubDate>Mon, 22 Jun 2026 14:54:35 +0000</pubDate>
+      <link>https://daily-ai-podcast-feed.netlify.app/episodes/2026-06-22.html</link>
+      <enclosure url="https://pub-741f72bb69f44987a2c5f6824c94a413.r2.dev/episodes/2026-06-22.mp3" length="3470049" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing-2026-06-22</guid>
+      <itunes:duration>07:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI in the news: June 20, 2026 — Small Model, Big Punch: The Post-Training Playbook</title>
       <description>A 3-billion-parameter model from a Chinese social media company's research team is matching systems 200 times its size on competition-level math — not by scaling up, but by using a smarter training recipe called Spectrum-to-Signal. Today's episode argues that post-training methodology is becoming the new decisive capability lever, and that the real beneficiaries of this shift may not be the open-source community — but the frontier labs with the scale to apply the same recipe to far larger models.</description>
       <content:encoded><![CDATA[<h1>Small Model, Big Punch: The Post-Training Playbook</h1><p>A 3-billion-parameter model from a Chinese social media company's research team is matching systems 200 times its size on competition-level math — not by scaling up, but by using a smarter training recipe called Spectrum-to-Signal. Today's episode argues that post-training methodology is becoming the new decisive capability lever, and that the real beneficiaries of this shift may not be the open-source community — but the frontier labs with the scale to apply the same recipe to far larger models.</p><h2>Featured story</h2><ul><li><a href="https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/">VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline</a> — MarkTechPost</li></ul><h2>Also today</h2><ul><li><a href="https://www.marktechpost.com">NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning</a> — MarkTechPost</li></ul>]]></content:encoded>
