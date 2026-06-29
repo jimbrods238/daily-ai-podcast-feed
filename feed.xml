@@ -20,7 +20,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-                                                    <item>
+                                                        <item>
+      <title>AI in the news: June 29, 2026 — Who Gets to Name What AI Is Doing to Us</title>
+      <description>OpenAI published a report this week mapping AI's impact on European jobs — framed not as a displacement risk, but as a "workforce opportunity." That framing isn't incidental: it's a strategic move to set the vocabulary of EU regulatory debates before the rules get written. The deeper story is that frontier labs are now building narrative and evidentiary infrastructure as deliberately as they build products.</description>
+      <content:encoded><![CDATA[<h1>Who Gets to Name What AI Is Doing to Us</h1><p>OpenAI published a report this week mapping AI's impact on European jobs — framed not as a displacement risk, but as a "workforce opportunity." That framing isn't incidental: it's a strategic move to set the vocabulary of EU regulatory debates before the rules get written. The deeper story is that frontier labs are now building narrative and evidentiary infrastructure as deliberately as they build products.</p><h2>Featured story</h2><ul><li><a href="https://openai.com/index/mapping-ai-jobs-transition-eu">Mapping Europe's AI Workforce Opportunity</a> — OpenAI News</li></ul><h2>Also today</h2><ul><li>No additional stories cited in this episode.</li></ul>]]></content:encoded>
+      <pubDate>Mon, 29 Jun 2026 13:19:22 +0000</pubDate>
+      <link>https://daily-ai-podcast-feed.netlify.app/episodes/2026-06-29.html</link>
+      <enclosure url="https://pub-741f72bb69f44987a2c5f6824c94a413.r2.dev/episodes/2026-06-29.mp3" length="3014351" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing-2026-06-29</guid>
+      <itunes:duration>06:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI in the news: June 28, 2026 — When the Math Beats the Subscription</title>
       <description>As enterprise AI deals lock big companies into proprietary coding tools, a parallel movement of practitioners is building production-grade coding agents on local, open-weight models — driven entirely by cost. Today's episode traces how last week's capability story (open-source models matching proprietary ones on benchmarks) created the conditions for this week's economics story: once the quality gap closes, cost becomes the deciding variable, and local deployment stops being a compromise.</description>
       <content:encoded><![CDATA[<h1>When the Math Beats the Subscription</h1><p>As enterprise AI deals lock big companies into proprietary coding tools, a parallel movement of practitioners is building production-grade coding agents on local, open-weight models — driven entirely by cost. Today's episode traces how last week's capability story (open-source models matching proprietary ones on benchmarks) created the conditions for this week's economics story: once the quality gap closes, cost becomes the deciding variable, and local deployment stops being a compromise.</p><h2>Featured story</h2><ul><li><a href="https://magazine.sebastianraschka.com/p/using-local-coding-agents">Using Local Coding Agents — Ahead of AI</a> — Sebastian Raschka</li></ul><h2>Also today</h2><ul><li><a href="https://magazine.sebastianraschka.com/p/using-local-coding-agents">Using Local Coding Agents — Ahead of AI</a> — Sebastian Raschka</li></ul>]]></content:encoded>
