@@ -20,7 +20,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-                                        <item>
+                                            <item>
+      <title>AI in the news: November 1, 2026 — When Nobody Coordinated and Everyone Agreed</title>
+      <description>Two open-source AI teams — DeepSeek and Nace AI — shipped new tools today with no knowledge of each other, and made the exact same architectural bet: that the future of capable AI is modular, local, and free. Today's episode traces what that convergence actually means, why the enterprise world isn't following the same logic, and what it reveals about where power in AI is really accumulating.</description>
+      <content:encoded><![CDATA[<h1>When Nobody Coordinated and Everyone Agreed</h1><p>Two open-source AI teams — DeepSeek and Nace AI — shipped new tools today with no knowledge of each other, and made the exact same architectural bet: that the future of capable AI is modular, local, and free. Today's episode traces what that convergence actually means, why the enterprise world isn't following the same logic, and what it reveals about where power in AI is really accumulating.</p><h2>Featured story</h2><ul><li><a href="https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/">DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</a> — MarkTechPost</li></ul><h2>Also today</h2><ul><li><a href="https://www.marktechpost.com/">Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</a> — MarkTechPost</li></ul>]]></content:encoded>
+      <pubDate>Sun, 01 Nov 2026 11:25:06 +0000</pubDate>
+      <link>https://daily-ai-podcast-feed.netlify.app/episodes/2026-11-01.html</link>
+      <enclosure url="https://pub-741f72bb69f44987a2c5f6824c94a413.r2.dev/episodes/2026-11-01.mp3" length="3328784" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing-2026-11-01</guid>
+      <itunes:duration>06:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI in the news: October 31, 2026 — The Plumbing Arrives All at Once</title>
       <description>The agentic AI stack — the infrastructure that turns AI models into reliable computer workers — got three new pieces this week, almost simultaneously: a standardized desktop interface, a cost-cutting plugin for coding agents, and an independent security agent benchmark. None of these are model research stories. Together, they signal that the industry has quietly decided the models are good enough and is now engineering the surrounding infrastructure that makes deployment a rational business decision. The oversight layer, however, has not kept pace.</description>
       <content:encoded><![CDATA[<h1>The Plumbing Arrives All at Once</h1><p>The agentic AI stack — the infrastructure that turns AI models into reliable computer workers — got three new pieces this week, almost simultaneously: a standardized desktop interface, a cost-cutting plugin for coding agents, and an independent security agent benchmark. None of these are model research stories. Together, they signal that the industry has quietly decided the models are good enough and is now engineering the surrounding infrastructure that makes deployment a rational business decision. The oversight layer, however, has not kept pace.</p><h2>Featured story</h2><ul><li><a href="https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/">Vercel Labs Open-Sources agent-desktop for Agent Computer Use</a> — MarkTechPost</li></ul><h2>Also today</h2><ul><li><a href="https://www.marktechpost.com">Meet TokenEconomizer: Microsoft's Plugin That Cuts Coding Agent Costs by Up to 30.9%</a> — MarkTechPost</li><li><a href="https://www.marktechpost.com">AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare</a> — MarkTechPost</li></ul>]]></content:encoded>
