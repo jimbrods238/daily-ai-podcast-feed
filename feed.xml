@@ -20,7 +20,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-                                            <item>
+                                                <item>
+      <title>AI in the news: November 2, 2026 — The Browser's Quiet Funeral</title>
+      <description>Five weeks of AI infrastructure assembly — computer-use frameworks, open-source agent scaffolding, cost-optimized models — has produced something coherent enough that serious publications are now making a specific architectural argument: the browser is no longer the primary interface between humans and the internet. Today's episode unpacks that claim, explains why NVIDIA is quietly becoming the picks-and-shovels vendor for the agentic era, and makes the case that declaring the agentic web 'here' while agent safety guardrails remain largely absent is a liability being shipped without a label.</description>
+      <content:encoded><![CDATA[<h1>The Browser's Quiet Funeral</h1><p>Five weeks of AI infrastructure assembly — computer-use frameworks, open-source agent scaffolding, cost-optimized models — has produced something coherent enough that serious publications are now making a specific architectural argument: the browser is no longer the primary interface between humans and the internet. Today's episode unpacks that claim, explains why NVIDIA is quietly becoming the picks-and-shovels vendor for the agentic era, and makes the case that declaring the agentic web 'here' while agent safety guardrails remain largely absent is a liability being shipped without a label.</p><h2>Featured story</h2><ul><li><a href="https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/">The agentic web is here</a> — MIT Technology Review</li></ul><h2>Also today</h2><ul><li><a href="https://www.marktechpost.com">NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL</a> — MarkTechPost</li></ul>]]></content:encoded>
+      <pubDate>Mon, 02 Nov 2026 12:39:14 +0000</pubDate>
+      <link>https://daily-ai-podcast-feed.netlify.app/episodes/2026-11-02.html</link>
+      <enclosure url="https://pub-741f72bb69f44987a2c5f6824c94a413.r2.dev/episodes/2026-11-02.mp3" length="2975904" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing-2026-11-02</guid>
+      <itunes:duration>06:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI in the news: November 1, 2026 — When Nobody Coordinated and Everyone Agreed</title>
       <description>Two open-source AI teams — DeepSeek and Nace AI — shipped new tools today with no knowledge of each other, and made the exact same architectural bet: that the future of capable AI is modular, local, and free. Today's episode traces what that convergence actually means, why the enterprise world isn't following the same logic, and what it reveals about where power in AI is really accumulating.</description>
       <content:encoded><![CDATA[<h1>When Nobody Coordinated and Everyone Agreed</h1><p>Two open-source AI teams — DeepSeek and Nace AI — shipped new tools today with no knowledge of each other, and made the exact same architectural bet: that the future of capable AI is modular, local, and free. Today's episode traces what that convergence actually means, why the enterprise world isn't following the same logic, and what it reveals about where power in AI is really accumulating.</p><h2>Featured story</h2><ul><li><a href="https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/">DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</a> — MarkTechPost</li></ul><h2>Also today</h2><ul><li><a href="https://www.marktechpost.com/">Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</a> — MarkTechPost</li></ul>]]></content:encoded>
