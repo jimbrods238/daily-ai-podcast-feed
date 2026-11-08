@@ -20,7 +20,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-                                                                    <item>
+                                                                        <item>
+      <title>AI in the news: November 8, 2026 — The Hidden Politics Inside Your Favorite Open Model</title>
+      <description>Nous Research released Arete-27B, a fine-tuned version of Alibaba's popular Qwen model, after finding that the original gave politically slanted answers nearly one in five times on a standardized test. The fix works — but the real story is what it reveals: thousands of products built on the same base model have never been tested this way, and now they all have an open question mark hanging over them.</description>
+      <content:encoded><![CDATA[<h1>The Hidden Politics Inside Your Favorite Open Model</h1><p>Nous Research released Arete-27B, a fine-tuned version of Alibaba's popular Qwen model, after finding that the original gave politically slanted answers nearly one in five times on a standardized test. The fix works — but the real story is what it reveals: thousands of products built on the same base model have never been tested this way, and now they all have an open question mark hanging over them.</p><h2>Featured story</h2><ul><li><a href="https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/">Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%</a> — MarkTechPost</li></ul><h2>Also today</h2><ul><li><a href="https://www.marktechpost.com">Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding</a> — MarkTechPost</li><li><a href="https://www.marktechpost.com">Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</a> — MarkTechPost</li></ul>]]></content:encoded>
+      <pubDate>Sun, 08 Nov 2026 11:25:31 +0000</pubDate>
+      <link>https://daily-ai-podcast-feed.netlify.app/episodes/2026-11-08.html</link>
+      <enclosure url="https://pub-741f72bb69f44987a2c5f6824c94a413.r2.dev/episodes/2026-11-08.mp3" length="3079904" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing-2026-11-08</guid>
+      <itunes:duration>06:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI in the news: November 7, 2026 — The Control Plane Becomes the Frontier</title>
       <description>This week's dominant story in AI isn't a new model — it's the infrastructure being built to govern existing ones. Today's episode traces how open-source tooling is now assembling itself at every layer of the AI stack, with Buoyant's Kinference release as the clearest example yet of inference cost — the price of running a model every time someone asks it a question — becoming the dominant engineering battleground.</description>
       <content:encoded><![CDATA[<h1>The Control Plane Becomes the Frontier</h1><p>This week's dominant story in AI isn't a new model — it's the infrastructure being built to govern existing ones. Today's episode traces how open-source tooling is now assembling itself at every layer of the AI stack, with Buoyant's Kinference release as the clearest example yet of inference cost — the price of running a model every time someone asks it a question — becoming the dominant engineering battleground.</p><h2>Featured story</h2><ul><li><a href="https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/">Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM</a> — MarkTechPost</li></ul><h2>Also today</h2><ul><li><a href="https://www.marktechpost.com/">Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster</a> — MarkTechPost</li><li><a href="https://huggingface.co/blog">ToyBlocks: A controlled world for robot learning and evaluation</a> — Hugging Face Blog</li></ul>]]></content:encoded>
