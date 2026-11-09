@@ -20,7 +20,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-                                                                        <item>
+                                                                            <item>
+      <title>AI in the news: November 9, 2026 — When the Tools Stop Being Built for You</title>
+      <description>The AI development stack is being rebuilt from scratch — not patched — around the assumption that agents, not humans, are the primary actors. Today's episode traces that replacement layer by layer: from how models run, to how code gets stored and tracked, to how security gets tested. The central question is whether 'agent-native' infrastructure quietly removes the oversight hooks humans still need.</description>
+      <content:encoded><![CDATA[<h1>When the Tools Stop Being Built for You</h1><p>The AI development stack is being rebuilt from scratch — not patched — around the assumption that agents, not humans, are the primary actors. Today's episode traces that replacement layer by layer: from how models run, to how code gets stored and tracked, to how security gets tested. The central question is whether 'agent-native' infrastructure quietly removes the oversight hooks humans still need.</p><h2>Featured story</h2><ul><li><a href="https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/">Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents</a> — MarkTechPost</li></ul><h2>Also today</h2><ul><li><a href="https://huggingface.co/blog">Your Experts Have Partners. There's HOPE for Keeping Them Together</a> — Hugging Face Blog</li><li><a href="https://www.marktechpost.com">0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP</a> — MarkTechPost</li></ul>]]></content:encoded>
+      <pubDate>Mon, 09 Nov 2026 13:03:12 +0000</pubDate>
+      <link>https://daily-ai-podcast-feed.netlify.app/episodes/2026-11-09.html</link>
+      <enclosure url="https://pub-741f72bb69f44987a2c5f6824c94a413.r2.dev/episodes/2026-11-09.mp3" length="3025501" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing-2026-11-09</guid>
+      <itunes:duration>06:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI in the news: November 8, 2026 — The Hidden Politics Inside Your Favorite Open Model</title>
       <description>Nous Research released Arete-27B, a fine-tuned version of Alibaba's popular Qwen model, after finding that the original gave politically slanted answers nearly one in five times on a standardized test. The fix works — but the real story is what it reveals: thousands of products built on the same base model have never been tested this way, and now they all have an open question mark hanging over them.</description>
       <content:encoded><![CDATA[<h1>The Hidden Politics Inside Your Favorite Open Model</h1><p>Nous Research released Arete-27B, a fine-tuned version of Alibaba's popular Qwen model, after finding that the original gave politically slanted answers nearly one in five times on a standardized test. The fix works — but the real story is what it reveals: thousands of products built on the same base model have never been tested this way, and now they all have an open question mark hanging over them.</p><h2>Featured story</h2><ul><li><a href="https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/">Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%</a> — MarkTechPost</li></ul><h2>Also today</h2><ul><li><a href="https://www.marktechpost.com">Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding</a> — MarkTechPost</li><li><a href="https://www.marktechpost.com">Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</a> — MarkTechPost</li></ul>]]></content:encoded>
